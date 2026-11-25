@@ -1,0 +1,14 @@
+# 안경 계산기 (GitHub Pages root)
+# https://bok08150-sudo.github.io/
+
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://bok08150-sudo.github.io/sitemap.xml
+Sitemap: https://bok08150-sudo.github.io/lens-calc/sitemap.xml
