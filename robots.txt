@@ -10,4 +10,5 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
+Sitemap: https://bok08150-sudo.github.io/sitemap.xml
 Sitemap: https://bok08150-sudo.github.io/lens-calc/sitemap.xml
